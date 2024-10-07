@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sabarikarthikportfolio.netlify.app/](https://sabarikarthikportfolio.netlify.app/)
 
-- 💬 Ask me about **react JS**
+- 💬 Ask me about **react JS,Python,Java**
 
 - 📫 How to reach me **sabarikarthiks04@gmail.com**
 
