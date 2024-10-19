@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Angular JS**
 
-- 👨‍💻 All of my projects are available at [[Portfolio](https://sk-portfolio-v2.netlify.app/)]
+- 👨‍💻 All of my projects are available at [Portfolio(https://sk-portfolio-v2.netlify.app/)]
 
 - 💬 Ask me about **react JS,Python,Java**
 
